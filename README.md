@@ -6,4 +6,8 @@ Repository แรกของฉันสําหรับเรียนรู
 - JavaScript
 ## เกี่ยวกับฉัน
 ฉันกําลังเรียนรู้การใช้GitHub เป็นครั้งแรก!# my-first-project
-"### สมาชิกในทีม: Clone Nantawat"
+<<<<<<< HEAD
+"### สมาชิกในทีม
+-Nantawat
+-Clone Nantawat
+>>>>>>> main
