@@ -6,3 +6,4 @@ Repository แรกของฉันสําหรับเรียนรู
 - JavaScript
 ## เกี่ยวกับฉัน
 ฉันกําลังเรียนรู้การใช้GitHub เป็นครั้งแรก!# my-first-project
+"### สมาชิกในทีม: Nantawat"
